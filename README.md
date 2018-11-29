@@ -12,7 +12,7 @@ The Programm is compiled for Windows. If you want to use it on Linux use the cur
 
 ## Features:
 
-* Write text in elder and younger Furtark
+* Write text in elder and younger Futhark
 * Translate latin Texts into Runes
 * Edit the config file for changing the mapping
 
