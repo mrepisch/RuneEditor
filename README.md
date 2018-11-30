@@ -20,4 +20,3 @@ The Programm is compiled for Windows. If you want to use it on Linux use the cur
 
 This Programm is runned under the GNU GENERAL PUBLIC LICENSE + 1 extra upfront License. ( Read the extra clause )
 
-[<img src="https://cdn.discordapp.com/attachments/474319912576221213/508738275700113418/FirstTry.gif">](https://cdn.discordapp.com/attachments/474319912576221213/508738275700113418/FirstTry.gif)
